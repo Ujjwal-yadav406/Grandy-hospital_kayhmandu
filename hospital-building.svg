@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+<defs><linearGradient id="sky" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#bfe7ff"/><stop offset="1" stop-color="#f5fbff"/></linearGradient><linearGradient id="glass" x1="0" x2="1"><stop stop-color="#1a9ad1"/><stop offset="1" stop-color="#075e9d"/></linearGradient></defs>
+<rect width="900" height="520" fill="url(#sky)"/>
+<circle cx="110" cy="95" r="58" fill="#fff" opacity=".75"/><circle cx="170" cy="75" r="45" fill="#fff" opacity=".7"/>
+<path d="M0 390 Q160 285 300 390 T600 370 T900 365 V520 H0Z" fill="#b9d9c4"/>
+<path d="M80 520V205l210-55 95 55v315Z" fill="#eef5f8" stroke="#b6cbd5" stroke-width="5"/>
+<path d="M385 520V95l270-45 105 70v400Z" fill="#f8fbfd" stroke="#b6cbd5" stroke-width="5"/>
+<path d="M430 155h250v245H430z" fill="url(#glass)"/>
+<g stroke="#bfe8ff" stroke-width="5" opacity=".75"><path d="M480 155v245M530 155v245M580 155v245M630 155v245M680 155v245"/><path d="M430 205h250M430 260h250M430 315h250M430 370h250"/></g>
+<path d="M485 95h105v40H485z" fill="#fff"/><text x="500" y="122" font-family="Arial" font-size="22" font-weight="700" fill="#075e9d">GRANDE CITY</text>
+<text x="520" y="142" font-family="Arial" font-size="12" font-weight="700" fill="#075e9d">HOSPITAL PVT. LTD.</text>
+<g fill="#dce9ee"><rect x="120" y="260" width="55" height="75" rx="3"/><rect x="195" y="240" width="55" height="95" rx="3"/><rect x="120" y="360" width="55" height="75" rx="3"/><rect x="195" y="360" width="55" height="75" rx="3"/></g>
+<path d="M350 520H900V440H350Z" fill="#dbe9ee"/><path d="M0 475h900" stroke="#fff" stroke-width="12" opacity=".8"/>
+</svg>
